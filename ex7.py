@@ -1,4 +1,4 @@
-# Tabela de produtos
+#fazendo os códigos de acordo com o conteudo das aulas
 codigo = input("Informe o código do produto (1001, 1324, 6548, 0987, 7623): ")
 quantidade = int(input("Informe a quantidade comprada: "))
 
