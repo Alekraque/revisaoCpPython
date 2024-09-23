@@ -1,3 +1,4 @@
+#fazendo os códigos de acordo com o conteudo das aulas
 cargo = input('digite seu cargo: ')
 salario = float(input('digite seu salario atual: '))
 salarioGerente = salario * 0.10 + salario
